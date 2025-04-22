@@ -1,6 +1,8 @@
 # LED Memory Game
 This is a simple LED Memory Game PCB that sits on top of an Arduino UNO, it has 4 LEDs (Red, Green, Blue, Yellow), 4 Buttons, a vibration motor, dc barel jack, 4 resistors, and that's it!
-
+# Slack Username
+- @Aahil
+- Slack ID: U08GLNF2JMU
 # Pictures
 
 # Schematic
